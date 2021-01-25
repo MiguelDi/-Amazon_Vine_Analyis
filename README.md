@@ -1,7 +1,5 @@
-# Amazon_Vine_Analyis 
 
-
-# Amazon_Vine_Analyis
+# Amazon_Vine Analysis
 
 ## Overview
 To analyze Amazon reviews written by members of the paid Amazon Vine program.  The Amazon Vine program is a service that allows manufacturers and publishers to recieve reviews for their products.
