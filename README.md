@@ -37,7 +37,7 @@ Pick one of 50 datasets and use PySpark to perform the ETL process to extract th
     ![](Resources/percentage_Non-Paid.png)
 
 ## Summary
-After reviewing the data, those are are Vine users are 51% more likely to give a 5 star review while Non-Vine users are only 39% more likely to give a 5 star review.  There does appear to be a bias for Vine users to give 5 star reviews.  However, when you compare the number of reviews, 94 Vine reviews to 40,471 Non-Vine, the question needs to be asked is the sample size too small for Vine users to make an accurate assumption.   
+After reviewing the data, those are Vine users are 51% more likely to give a 5 star review while Non-Vine users are only 39% more likely to give a 5 star review.  There does appear to be a bias for Vine users to give 5 star reviews.  However, when you compare the number of reviews, 94 Vine reviews to 40,471 Non-Vine, the question needs to be asked is the sample size too small for Vine users to make an accurate assumption.   
 
 How many Vine Users are there and are they posting less reviews than their non-vine user counterparts.  If this is the case, then the better question and an additional analysis would be are non-vine users more likely to post a review than Vine Users?  
     
